@@ -3,4 +3,5 @@ pub enum TurnState {
     AwaititngInput,
     PlayerTurn,
     MonsterTurn,
+    GameOver,
 }
